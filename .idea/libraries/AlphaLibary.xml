@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AlphaLibary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../apis/AlphaLibary.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AlphaLibary" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../AlphaLibary/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
