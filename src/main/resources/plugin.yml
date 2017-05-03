@@ -1,0 +1,6 @@
+name: FakeAPIExample
+version: ${project.version}
+main: de.alphahelix.fakeapiexample.FakeAPIExample
+depend: [AlphaLibary]
+authors: [AlphaHelix]
+description: Example for FakeAPI
